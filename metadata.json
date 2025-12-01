@@ -1,0 +1,5 @@
+{
+  "name": "TaskMaster Enterprise",
+  "description": "A scalable, MVC-architected Todo application using React, Zustand, Zod, and Tailwind (Shadcn style).",
+  "requestFramePermissions": []
+}
